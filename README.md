@@ -9,7 +9,7 @@ Built a modern and responsive landing page for Nike shoes, showcasing limited ed
 ## 🛠️ Technologies Used
 
 - HTML5
-- CSS3
+- CSS
 - JavaScript
 - Google Fonts 
 
